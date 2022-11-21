@@ -1,3 +1,8 @@
+#heading {
+    color: #967E76;
+    font-size: 200px;
+}
+
 .bacon {
     background-color: green;
 }
@@ -6,15 +11,19 @@
     background-color: red;
 }
 
+.circular {
+    border-radius: 100%;
+}
+
 body {
     background-color: #EDE4E0;
 }
 
 h1 {
-    color: #967E76;
+    color: green;
     font-size: 200px;
 }
 
-img {
-    background-color: yellow;
+img:hover {
+    background-color: gold;
 }
