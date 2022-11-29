@@ -23,6 +23,10 @@ h3 {
     padding-top: 100px;
 }
 
+.middle-container {}
+
+.bottom-container{}
+
 .pro {
     text-decoration: underline;
 }
@@ -37,4 +41,9 @@ h3 {
     position: absolute;
     left: 300px;
     bottom: 300px;
+}
+
+.profile-img {
+    width: 200px;
+    height: 200px;
 }
