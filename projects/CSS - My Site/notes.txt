@@ -1,3 +1,11 @@
 https://www.w3schools.com/cssref/css_websafe_fonts.php
 https://www.cssfontstack.com/
 https://www.lipsum.com/
+
+100% = 16px
+
+90px/16px =562.5%
+
+1em = 16px = 100% 
+
+90px = 5.625em
