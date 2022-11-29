@@ -6,17 +6,21 @@ body {
 
 h1 {
     font-size: 5.625em;
+    color: #66BFBF;
     margin: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
 }
 
 h2 {
     font-size: 2.5rem;
+    color: #66BFBF;
     font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
 }
 
 h3 {
     font-family: 'Montserrat', sans-serif;
+    color: #11999E;
 }
 
 .top-container {
@@ -48,4 +52,8 @@ h3 {
 .profile-img {
     width: 200px;
     height: 200px;
+}
+
+a {
+    color: #11999E;
 }
