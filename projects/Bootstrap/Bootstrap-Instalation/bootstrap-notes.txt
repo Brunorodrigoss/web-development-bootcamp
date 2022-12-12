@@ -19,3 +19,6 @@ https://getbootstrap.com/docs/5.2/components/navbar/
 https://getbootstrap.com/docs/5.2/utilities/spacing/
 
 https://getbootstrap.com/docs/5.2/layout/grid/
+https://getbootstrap.com/docs/5.2/layout/containers/
+
+https://fontawesome.com/
