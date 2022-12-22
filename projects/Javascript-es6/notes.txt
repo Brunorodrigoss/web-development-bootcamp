@@ -1,0 +1,7 @@
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://github.com/rwaldron/idiomatic.js/
+
+
+Chrome -> More Tools -> Developer Tools -> Sources -> Snippets -> New Snippet (Create a js file to test inside of the browse)
+
+https://stanford.edu/~cpiech/karel/ide.html
