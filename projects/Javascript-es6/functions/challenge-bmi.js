@@ -1,7 +1,8 @@
 //Create your function below this line.
 //The first parameter should be the weight and the second should be the height.
 function bmiCalculator(weight, height) {
-    return weight / (Math.pow(height,2));
+    var bmi = weight / (Math.pow(height,2));
+    return Math.round(bmi);
 }
 
 
