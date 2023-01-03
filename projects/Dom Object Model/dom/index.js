@@ -27,3 +27,11 @@ document.querySelector(".btn");
 document.querySelector("li a");
 document.querySelector("li a");
 document.querySelector("li.item");
+
+
+document.querySelectorAll(".item")[1].style.color = "green";
+document.querySelector("h1").style.fontSize = "10rem";
+document.querySelector(".btn").style.backgroundColor = "yellow";
+document.querySelector("h1").style.display = "hidden";
+document.querySelector("h1").style.visibility = "hidden";
+document.querySelector("h1").style.visibility = "visible";
