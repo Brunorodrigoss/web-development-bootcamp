@@ -44,3 +44,12 @@ document.querySelector("button").classList.toggle("invisible");
 document.querySelector("button").classList.toggle("invisible");
 document.querySelector("button").classList.toggle("invisible");
 document.querySelector("h1").classList.add("huge");
+
+document.querySelector("h1").innerHTML = "Hey!";
+document.querySelector("h1").textContent = "Heeeeey";
+document.querySelector("h1").innerHTML;
+'<strong>Hello</strong>'
+document.querySelector("h1").textContent;
+'Hello'
+document.querySelector("h1").innerHTML = "<em>Good Bye</em>";
+'<em>Good Bye</em>'
