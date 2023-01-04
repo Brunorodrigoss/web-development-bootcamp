@@ -53,3 +53,10 @@ document.querySelector("h1").textContent;
 'Hello'
 document.querySelector("h1").innerHTML = "<em>Good Bye</em>";
 '<em>Good Bye</em>'
+
+document.querySelector("a").attributes;
+NamedNodeMap {0: href, href: href, length: 1}
+document.querySelector("a").getAttribute("href");
+'http://www.google.com'
+document.querySelector("a").setAttribute("href", "https://www.bing.com");
+undefined
