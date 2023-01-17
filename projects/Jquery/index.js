@@ -1,4 +1,5 @@
-// document.querySelector("h1").style.color = "red"; === $("h1").css("color","red");
+$("h1").addClass("big-title margin-50");
 
-$("h1").css("color","red");
-$("button").css("background-color", "yellow");
+// $("h1").removeClass("big-title");
+
+console.log($("h1").hasClass("margin-50"));
